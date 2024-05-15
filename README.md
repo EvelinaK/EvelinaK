@@ -23,7 +23,17 @@ Hi 👋 My name is Evelina!
 <h3 align="left">Statistics</h3>
 
 
-<a href="http://www.github.com/EvelinaK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EvelinaK&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvelinaK&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="EvelinaK" /></p>
 
