@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
-<img src="[https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg](https://seanhamptoncole.wordpress.com/wp-content/uploads/2014/09/internet-usage-of-the-world-based-on-time-of-day_2.gif)" width="100%" height="100">
+<img src="https://seanhamptoncole.wordpress.com/wp-content/uploads/2014/09/internet-usage-of-the-world-based-on-time-of-day_2.gif" width="100%" height="100">
 
 Hi 👋 My name is Evelina!
 =========================
