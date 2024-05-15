@@ -22,18 +22,8 @@ Hi 👋 My name is Evelina!
 
 <h3 align="left">Statistics</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EvelinaK&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EvelinaK&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=EvelinaK&show_icons=true" />
-</picture>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvelinaK&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="EvelinaK" /></p>
 
