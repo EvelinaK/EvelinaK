@@ -6,11 +6,12 @@ Hi 👋 My name is Evelina!
 ⚡ Just creating Web Apps with HTML5 / CSS3+, JavaScript ES6+, Composition API, TypeScript, Next.js, I18n, MUI Material, React Router, Test Utils: Jest +React Testing Library, React. Some experience in backend building with NodeJS.
 
 * 🌍  I'm based in Bulgaria
+* ✉️  You can contact me at [evelinawork1@gmail.com](mailto:evelinawork1@gmail.com)
 * 🧠 Currently, I am interested in learning other frameworks/libraries.
  
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Socials</h2>
 <p align="left"> <a href="https://www.linkedin.com/in/evelina-karametulova/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <h2 align="left">Skills</h2>
